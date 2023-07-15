@@ -20,7 +20,7 @@ The website offers the following features:
 
 Here are some screenshots of the 3D Slider Swiper website:
 
-![Screenshot 1](images/Screenshot1.jpg)
+
 ![Screenshot 2](images/Screenshot2.jpg)
 
 
